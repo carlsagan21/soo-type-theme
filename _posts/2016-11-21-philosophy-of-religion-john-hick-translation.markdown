@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Philosophy of Religion" Japanese translation
+title: Philosophy of Religion Japanese translation
 ---
 
 원문
