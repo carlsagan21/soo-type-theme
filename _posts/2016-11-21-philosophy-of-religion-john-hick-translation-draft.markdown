@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Philosophy of Religion Japanese translation
+title: Philosophy of Religion Japanese translation draft
 ---
 
 원문
@@ -35,7 +35,7 @@ THE FREUDIAN THEORY OF RELIGION
 宗教に関するフロイト的理論
 
 Sigmund Freud (1856-1939), the originator of psychoanalysis and a figure comparable in importance to Galileo, Darwin, or Einstein, devoted a good deal of attention to the nature of religion.
-精神分析の創始者であり、ガリレオやダーウィンやアインシュタインに匹敵する人物であるジークムント・フロイト（1856-1939）は、宗教の本性にかなり注目した。
+精神分析の創始者であり、ガリレオやダーウィンやアインシュタインに匹敵する人物であるジークムント・フロイト（1856-1939）は、宗教の本性に注目した。
 He regarded religious beliefs as "...illusions, fulfillments of the oldest, strongest, and most insistent wishes of mankind."
 彼は宗教的信念{信仰}を「...人類の最古の、最強の、最も執拗な願いの幻想または履行」とみなした。
 Religion, as Freud saw it, is a mental defense against the more threatening aspects of nature — earthquake, flood, storm, disease, and inevitable death.
