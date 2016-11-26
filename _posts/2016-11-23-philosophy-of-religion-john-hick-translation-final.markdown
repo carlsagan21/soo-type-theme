@@ -18,9 +18,9 @@ title: Philosophy of Religion Japanese translation final
 
 [フロイトは言った]非人格的な力と運命には近づくことはできない。それらは永遠に遠く離れている。しかし、もしそのような要素が自分たちの魂の中にあるのと同様に激情を持っていれば、もし死がそれ自体として自然に起こるものではなく邪悪な意志の暴力的な行動であれば、もし我々が自身の社会で知っているのと同じ類の身の周りにあるような存在が自然のどこにでもあれば、私たちは自由に呼吸ができ、不気味な場面でもおちつくことができ、私たちの理由の分からぬ不安に心理的な手段によって対処することができるようになる。おそらく私たちはまだ無防備だが、もはやお手上げで立ちすくんでいる訳ではない。少なくとも反応することができる。おそらく実際には、無防備ですらない。私たちの社会に活用するのと同様の方法を外部の暴力的な超越的存在に対して私たちは適用することができる。私たちはそれらを懇願しようとしたり、宥めたり、買収したり、それらに影響を与えて、彼らの力の一部を奪うことができる。
 
-ユダヤ-キリスト教において採用された解決策は、巨大な保護力としての父の埋葬された記憶を全宇宙に投影することであった。揺りかごで微笑んだ顔は、今無限大に拡大されて、天国から微笑んでいる。したがって、宗教は「人類の普遍的な強迫的神経症」であり、人々が最終的に世界に直面することを学び、幻想ではなく、科学的な真の知識に依拠するようになったら消えるかもしれない。
+ユダヤ-キリスト教において採用された解決策は、巨大な保護力としての父の埋葬された記憶を全宇宙に投影することであった。揺りかごで微笑んだ顔は、今無限大に拡大されて、天国から微笑んでいる。したがって、宗教は「人類の普遍的な強迫神経症」であり、人々が最終的に世界に直面することを学び、幻想ではなく、科学的な真の知識に依拠するようになったら消えるかもしれない。
 
-『トーテムとタブー』で、フロイトは彼の特徴的な概念であるエディプスコンプレックス(共存する両義的な感情に基づく)を用いて、宗教生活の驚異的な感情の激しさと、罪と神の命令に従う義務との関連しあう感情について説明する。彼は父、母、子で構成される「原始部族」が単位だった人間の先史時代の段階を前提にしたのである。父は、支配的な男性として、女性に独占権利を保持し、彼の立場に挑戦した息子を追い払って殺した。個々に父-指導者を打ち負かすことができないことを知り、息子たちはついに彼を殺す（そして、人食い人種になって、食べるたに力を合わせた。これが最初の犯罪であり、父親の殺害者たちは道徳的禁制、トーテミズム、その他の宗教現象を発達させた人間の精神内部の緊張を創出した。彼らの父を殺戮することにより兄弟たちは後悔に打ちのめされた。また、誰しもが彼の地位を継承することはできず、制約をする必要が継続していることに気づいた。死んだ父の禁止？きんせい？戒め？は、このように近親姦に対するタブーとして新たな（「道徳的」）権威を要する。宗教のエディプスコンプレックスとの連関は、各男性個人の中で繰り返され、人間精神の神の神秘的な権威とそのような錯覚に人々を服従させる強力な罪悪感を説明するために主張される。宗教は、したがって、「抑圧された者の帰還」である。
+『トーテムとタブー』で、フロイトは彼の特徴的な概念であるエディプスコンプレックス(共存する両義的な感情に基づく)を用いて、宗教生活の驚異的な感情の激しさと、罪と神の命令に従う義務との関連しあう感情について説明する。彼は父、母、子で構成される「原始群族」が単位だった人間の先史時代の段階を前提にしたのである。父は、支配的な男性として、女性に独占権利を保持し、彼の立場に挑戦した息子を追い払って殺した。個々に父-指導者を打ち負かすことができないことを知り、息子たちはついに彼を殺す（そして、人食い人種になって、食べる）ために力を合わせた。これが最初の犯罪であり、父親の殺害者たちは道徳的禁制、トーテミズム、その他の宗教現象を発達させた人間の精神内部の緊張を創出した。彼らの父を殺戮することにより兄弟たちは後悔に打ちのめされた。また、誰しもが彼の地位を継承することはできず、制約をする必要が継続していることに気づいた。死んだ父の戒めは、このように近親相姦に対するタブーとして新たな（「道徳的））権威を要する。宗教のエディプスコンプレックスとの連関は、各男性個人の中で繰り返され、人間精神の神の神秘的な権威とそのような錯覚に人々を服従させる強力な罪悪感を説明するために主張される。宗教は、したがって、「抑圧された者の帰還）である。
 
 ---
 문장대응
@@ -55,12 +55,12 @@ The solution adopted in Judaic-Christian religion is to project upon the univers
 The face that smiled at us in the cradle, now magnified to infinity, smiles down upon us from heaven.
 揺りかごで微笑んだ顔は、今無限大に拡大されて、天国から微笑んでいる。
 Thus, religion is ".. .the universal obsessional neurosis of humanity," which may be left behind when at last people learn to face the world, relying no longer upon illusions but upon scientifically authenticated knowledge.
-したがって、宗教は「人類の普遍的な強迫的神経症」であり、人々が最終的に世界に直面することを学び、幻想ではなく、科学的な真の知識に依拠するようになったら消えるかもしれない。
+したがって、宗教は「人類の普遍的な強迫神経症」であり、人々が最終的に世界に直面することを学び、幻想ではなく、科学的な真の知識に依拠するようになったら消えるかもしれない。
 
 In Totem and Taboo, Freud uses his distinctive concept of the Oedipus complex (which rests on concurrent ambivalent feelings) to account for the tremendous emotional intensity of religious life and the associated feelings of guilt and of obligation to obey the behests of the deity.
 『トーテムとタブー』で、フロイトは彼の特徴的な概念であるエディプスコンプレックス(共存する両義的な感情に基づく)を用いて、宗教生活の驚異的な感情の激しさと、罪と神の命令に従う義務との関連しあう感情について説明する。
 He postulates a stage of human prehistory in which the unit was the "primal horde" consisting of father, mother, and offspring.
-彼は父、母、子で構成される「原始部族」が単位だった人間の先史時代の段階を前提にしたのである。
+彼は父、母、子で構成される「原始群族」が単位だった人間の先史時代の段階を前提にしたのである。
 The father, as the dominant male, retained to himself exclusive rights over the females and drove away or killed any of the sons who challenged his position.
 父は、支配的な男性として、女性に独占的権利を保持し、彼の立場に挑戦した息子を追い払って殺した。
 Finding that individually they could not defeat the father-leader, the sons eventually banded together to kill (and also, being cannibals, to eat) him.
@@ -72,7 +72,7 @@ For having slain their father, the brothers are struck with remorse.
 They also find that they cannot all succeed to his position and that there is a continuing need for restraint.
 また、誰しもが彼の地位を継承することはできず、制約をする必要が継続していることに気づいた。
 The dead father's prohibition accordingly takes on a new ("moral") authority as a taboo against incest.
-死んだ父の禁止？きんせい？戒め？は、このように近親相姦に対するタブーとして新たな（「道徳的」）権威を要する。
+死んだ父の戒めは、このように近親相姦に対するタブーとして新たな（「道徳的」）権威を要する。
 This association of religion with the Oedipus complex, which is renewed in each male individual, is held to account for the mysterious authority of God in the human mind and the powerful guilt feelings which make people submit to such a fantasy.
 宗教のエディプスコンプレックスとの連関は、各男性個人の中で繰り返され、人間精神の神の神秘的な権威とそのような錯覚に人々を服従させる強力な罪悪感を説明するために主張される。
 Religion is thus a "return of the repressed."
